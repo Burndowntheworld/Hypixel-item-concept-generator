@@ -9,3 +9,8 @@ want to make some concepts for hypixel skyblock? maybe try and get a creative mi
 
 ## Usage
 you will need to change the generate_command statment to what you want. this should appear at the bottom of [hypixel-item-gen.py](hypixel-item-gen.py)
+
+## Request more
+If you have any other features or ideas, you can post them in issues. I don't garuntee any updates.
+
+See [the license](LICENSE) for info regarding what you yourself can change.
