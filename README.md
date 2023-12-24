@@ -8,4 +8,4 @@
 want to make some concepts for hypixel skyblock? maybe try and get a creative mind? well you can generate some items in vanilla minecraft (1.18) to show them off.
 
 ## Usage
-you will need to change the generate_command statment to what you want. this should appear at the bottom of hypixel-item-gen.py
+you will need to change the generate_command statment to what you want. this should appear at the bottom of [hypixel-item-gen.py](hypixel-item-gen.py)
